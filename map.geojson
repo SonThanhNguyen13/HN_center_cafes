@@ -1,0 +1,1732 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8516561,
+                    21.0322125
+                ]
+            },
+            "properties": {
+                "id": "314392015641190",
+                "name": "Highland Coffee Ho Hoan Kiem",
+                "Address": "Ph\u1ed1 \u0110inh Ti\u00ean Ho\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85207634632,
+                    21.031976701812
+                ]
+            },
+            "properties": {
+                "id": "415071441925007",
+                "name": "Avalon Cafe Lounge",
+                "Address": "Cau Go",
+                "website": "http://www.avaloncafelounge.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.859869,
+                    21.024956
+                ]
+            },
+            "properties": {
+                "id": "2194605500826250",
+                "name": "Highlands Coffee",
+                "Address": "1 Trang Tien, Trang Tien Ward, Hoan Kiem District, Hanoi",
+                "website": "https://www.highlandscoffee.com.vn/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85445,
+                    21.03305
+                ]
+            },
+            "properties": {
+                "id": "434535700042660",
+                "name": "Kt Shop 66 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "Address": "66 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "website": "http://www.36phophuong.vn/36-pho-facebook_c2_540__10287.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85492,
+                    21.03365
+                ]
+            },
+            "properties": {
+                "id": "264846204216299",
+                "name": "Hidden Gem Coffee",
+                "Address": "No.3B Hang Tre Street",
+                "website": "hiddengemcoffee.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85304608063,
+                    21.024097558001
+                ]
+            },
+            "properties": {
+                "id": "911148685665594",
+                "name": "The Coffee House",
+                "Address": "23M Hai B\u00e0 Tr\u01b0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                "website": "http://www.thecoffeehouse.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85436,
+                    21.03402
+                ]
+            },
+            "properties": {
+                "id": "2383736071664830",
+                "name": "HAN Coffee",
+                "Address": "46 Nguy\u1ec5n H\u1eefu Hu\u00e2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85316990495,
+                    21.031604978004
+                ]
+            },
+            "properties": {
+                "id": "117661525446090",
+                "name": "Helio Vietnam Specialty Coffee",
+                "Address": "Ph\u1ed1 \u0110inh Ti\u00ean Ho\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85376501083,
+                    21.032656421379
+                ]
+            },
+            "properties": {
+                "id": "1233856013384216",
+                "name": "Hanoi Coffee Station",
+                "Address": "44 H\u00e0ng b\u00e8",
+                "website": "https://www.tripadvisor.com.vn/Restaurant_Review-g293924-d13985845-Reviews-Hanoi_Coffee_Station-Hanoi.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85448,
+                    21.03222
+                ]
+            },
+            "properties": {
+                "id": "211295276132593",
+                "name": "Aha Coffee",
+                "Address": "1A L\u00fd Th\u00e1i T\u1ed5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84861,
+                    21.0304
+                ]
+            },
+            "properties": {
+                "id": "1080750542066905",
+                "name": "Blackbird Coffee",
+                "Address": "5 Ch\u00e2n C\u1ea7m Street, Ho\u00e0n Ki\u1ebfm District",
+                "website": "http://www.fb.com/blackbirdcoffeevn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85767498469,
+                    21.024914115748
+                ]
+            },
+            "properties": {
+                "id": "472786549544899",
+                "name": "Gemax Coffee",
+                "Address": "S\u1ed1 2 C\u1ed5 T\u00e2n - Qu\u1eadn Ho\u00e0n Ki\u1ebfm - H\u00e0 N\u1ed9i."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8492025733,
+                    21.028663270111
+                ]
+            },
+            "properties": {
+                "id": "554312891420726",
+                "name": "Eden Coffee s\u1ed1 2 Nh\u00e0 Th\u1edd",
+                "Address": "Nh\u00e0 th\u1edd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85437655449,
+                    21.022051177508
+                ]
+            },
+            "properties": {
+                "id": "1740671502636298",
+                "name": "Helio Coffee",
+                "Address": "25  Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84819,
+                    21.02059
+                ]
+            },
+            "properties": {
+                "id": "305615993323296",
+                "name": "All Day Coffee",
+                "Address": "37 Quang Trung, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85524,
+                    21.02531
+                ]
+            },
+            "properties": {
+                "id": "188826471745439",
+                "name": "T.Coffee Caf\u00e9 & Takeaway",
+                "Address": "14 Ng\u00f4 Quy\u1ec1n, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85703,
+                    21.02903
+                ]
+            },
+            "properties": {
+                "id": "276744056520166",
+                "name": "E-coffee",
+                "Address": "1 T\u00f4ng \u0110\u1ea3n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85112002161,
+                    21.031562675484
+                ]
+            },
+            "properties": {
+                "id": "446449818844200",
+                "name": "The Note Coffee",
+                "Address": "64 L\u01b0\u01a1ng V\u0103n Can, P. H\u00e0ng Tr\u1ed1ng, Q.Ho\u00e0n Ki\u1ebfm",
+                "website": "http://thenotecoffee.restaurantsnapshot.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85393,
+                    21.0308
+                ]
+            },
+            "properties": {
+                "id": "1087685257970122",
+                "name": "Haka Coffee 39 H\u00e0ng D\u1ea7u",
+                "Address": "39 H\u00e0ng D\u1ea7u",
+                "website": "www.hakacoffee.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85308260321,
+                    21.031620156689
+                ]
+            },
+            "properties": {
+                "id": "847720078597759",
+                "name": "Helio Cafe",
+                "Address": "57B \u0110inh Ti\u00ean Ho\u00e0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85098,
+                    21.02487
+                ]
+            },
+            "properties": {
+                "id": "168286447048929",
+                "name": "Baron Coffee",
+                "Address": "42B Hai B\u00e0 Tr\u01b0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85489,
+                    21.03364
+                ]
+            },
+            "properties": {
+                "id": "689039541463387",
+                "name": "SOHO Coffee Lounge",
+                "Address": "T\u1ea7ng 1 - 20 H\u00e0ng Tre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85862,
+                    21.02645
+                ]
+            },
+            "properties": {
+                "id": "1832470847057041",
+                "name": "B52 Coffee",
+                "Address": "S\u1ed1 2 L\u00ea Ph\u1ee5ng Hi\u1ec3u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85023,
+                    21.03089
+                ]
+            },
+            "properties": {
+                "id": "1293159120828523",
+                "name": "I'mpresso Coffee",
+                "Address": "S\u1ed1 9B, Ng\u00f5 B\u1ea3o Kh\u00e1nh, B\u1ea3o Kh\u00e1nh, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85466630432,
+                    21.033518934433
+                ]
+            },
+            "properties": {
+                "id": "1728799520671459",
+                "name": "Giang - Egg Coffee",
+                "Address": "Nguyen Huu Huan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85360944271,
+                    21.024194318784
+                ]
+            },
+            "properties": {
+                "id": "157985591632752",
+                "name": "La Fleur Tea and Dessert Cafe",
+                "Address": "22B Hai Ba Trung, Hoan Kiem,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85495,
+                    21.03141
+                ]
+            },
+            "properties": {
+                "id": "335194920211595",
+                "name": "The Tea Pub",
+                "Address": "75 L\u00f2 S\u0169, Ho\u00e0n Ki\u1ebfm,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85339,
+                    21.02409
+                ]
+            },
+            "properties": {
+                "id": "649406638558432",
+                "name": "DING TEA 23e Hai B\u00e0 Tr\u01b0ng",
+                "Address": "23e hai b\u00e0 tr\u01b0ng",
+                "website": "dingtea.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85548295,
+                    21.019687213338
+                ]
+            },
+            "properties": {
+                "id": "786444941528077",
+                "name": "Royal Tea",
+                "Address": "Ph\u1ed1 Phan Chu Trinh",
+                "website": "http://www.royalteagroup.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85096,
+                    21.0283
+                ]
+            },
+            "properties": {
+                "id": "206683579491011",
+                "name": "Chattime Bubble Tea Ha Noi",
+                "Address": "128 H\u00e0ng Tr\u1ed1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85452,
+                    21.03212
+                ]
+            },
+            "properties": {
+                "id": "258812191517495",
+                "name": "RoyalTea 98 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "Address": "98 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "website": "http://www.vpb.com.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84949493408,
+                    21.031154308065
+                ]
+            },
+            "properties": {
+                "id": "1694839200588051",
+                "name": "A Little Hoi An - Coffee & Tea",
+                "Address": "T\u1ea7ng 2, 19 H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85449,
+                    21.03256
+                ]
+            },
+            "properties": {
+                "id": "828991090824849",
+                "name": "Light Bulb Tea",
+                "Address": "86 Nguy\u1ec5n H\u1eefu Hu\u00e2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85715,
+                    21.0229399
+                ]
+            },
+            "properties": {
+                "id": "325927267569477",
+                "name": "B\u00eaT\u00f4 Bistro&Tealounge",
+                "Address": "1B Hai B\u00e0 Tr\u01b0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85103988647,
+                    21.029231580928
+                ]
+            },
+            "properties": {
+                "id": "423199891429485",
+                "name": "Futureadpro Vietnam Team",
+                "website": "https://futureadprovip.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85464,
+                    21.02893
+                ]
+            },
+            "properties": {
+                "id": "131314980757606",
+                "name": "Ninja School Online - Team",
+                "Address": "Ph\u1ed1 Tr\u1ea7n Nguy\u00ean H\u00e3n",
+                "website": "http://teammobi.com.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "1229560530534280",
+                "name": "Tasty Tea",
+                "Address": "Ng\u00e3 t\u01b0 ch\u1ee3 chi\u1ec1u, P. Ph\u01b0\u1ee3ng C\u00e1t, B\u1eafc T\u1eeb Li\u00eam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.852657741,
+                    21.032231249
+                ]
+            },
+            "properties": {
+                "id": "217335645127992",
+                "name": "Feeling Tea C\u1ea7u G\u1ed7",
+                "Address": "45 cau go",
+                "website": "http://feelingtea-online.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85495,
+                    21.02557
+                ]
+            },
+            "properties": {
+                "id": "196397197659698",
+                "name": "TEACH - C\u00f9ng Ph\u1ee5 huynh Thay \u0111\u1ed5i",
+                "Address": "S\u1ed1 2 - \u0110inh L\u1ec5 - Ho\u00e0n Ki\u1ebfm",
+                "website": " CungGiaoVienThayDoi.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85385,
+                    21.02969
+                ]
+            },
+            "properties": {
+                "id": "445388875889478",
+                "name": "GREEN TEA - 65 \u0110inh Ti\u00ean Ho\u00e0ng",
+                "Address": "65 \u0110inh Ti\u00ean Ho\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85463,
+                    21.02892
+                ]
+            },
+            "properties": {
+                "id": "727935650685548",
+                "name": "Brzii Team",
+                "Address": "S\u1ed1 57 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i",
+                "website": "http://brzii.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "2226022950990695",
+                "name": "HAPPY Team - Y\u00eau Th\u01b0\u01a1ng \u0110\u1ec3 Lan To\u1ea3",
+                "Address": "H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85475,
+                    21.02895
+                ]
+            },
+            "properties": {
+                "id": "1732722260351677",
+                "name": "Tra\u0300 S\u01b0\u0303A Felling Tea",
+                "Address": "Ph\u1ed1 Tr\u1ea7n Nguy\u00ean H\u00e3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85078,
+                    21.0215
+                ]
+            },
+            "properties": {
+                "id": "2036674363013331",
+                "name": "DylanJet coffee & tea",
+                "Address": "l\u00ea h\u1ed3ng phong",
+                "website": "http://www.dylanjet.vn/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85463,
+                    21.02892
+                ]
+            },
+            "properties": {
+                "id": "864496533687587",
+                "name": "Santa Team",
+                "Address": "S\u1ed1 9 Ng\u00f5 804 B\u1ea1ch \u0110\u1eb1ng - hai B\u00e0 Tr\u01b0ng - H\u00e0 N\u1ed9i",
+                "website": "santateam.blogspot.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85351,
+                    21.03558
+                ]
+            },
+            "properties": {
+                "id": "1884824651760469",
+                "name": "THE VEG - Organic vego & tea",
+                "Address": "18 H\u00e0ng Ch\u0129nh, Ho\u00e0n ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8543,
+                    21.03481
+                ]
+            },
+            "properties": {
+                "id": "234990740033627",
+                "name": "DING TEA 1b Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "Address": "1b nguy\u1ec5n h\u1eefu hu\u00e2n, qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                "website": "http://Dingtea.com.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85153928301,
+                    21.023184859963
+                ]
+            },
+            "properties": {
+                "id": "253984678102236",
+                "name": "Museum Coffee & Tea",
+                "Address": "36 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85461527109,
+                    21.031459738998
+                ]
+            },
+            "properties": {
+                "id": "2155698918004241",
+                "name": "AHA Cafe",
+                "Address": "1 L\u00fd Th\u00e1i T\u1ed5, L\u00fd Th\u00e1i T\u1ed5, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85247755051,
+                    21.025466168432
+                ]
+            },
+            "properties": {
+                "id": "2103780203194740",
+                "name": "AHA Cafe 11 H\u00e0ng Khay",
+                "Address": "S\u1ed1 11 H\u00e0ng Khay, Tr\u00e0ng Ti\u1ec1n, Ho\u00e0n Ki\u1ebfm",
+                "website": "http://ahacafe.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85273,
+                    21.02562
+                ]
+            },
+            "properties": {
+                "id": "181810799182742",
+                "name": "KHAY Cafe",
+                "Address": "13 H\u00e0ng Khay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85468842294,
+                    21.033536099025
+                ]
+            },
+            "properties": {
+                "id": "204277016269382",
+                "name": "Cafe Gi\u1ea3ng",
+                "Address": "39 Nguyen Huu Huan",
+                "website": "www.cafegiang.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85535277402,
+                    21.032765764728
+                ]
+            },
+            "properties": {
+                "id": "158409178353278",
+                "name": "Kafa Cafe",
+                "Address": "15 H\u00e0ng Tre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85672,
+                    21.02354
+                ]
+            },
+            "properties": {
+                "id": "178539136022819",
+                "name": "Cafe Terrace",
+                "Address": "6A Phan Chu Trinh, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85158786774,
+                    21.025729227447
+                ]
+            },
+            "properties": {
+                "id": "141432219373816",
+                "name": "Kalina Cafe, Hanoi",
+                "Address": "S\u1ed1 2 B\u00e0 Tri\u1ec7u, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84987,
+                    21.02898
+                ]
+            },
+            "properties": {
+                "id": "153279425227768",
+                "name": "C\u00e0f\u00ea RuNam",
+                "Address": "13 Nh\u00e0 Th\u1edd, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85447847843,
+                    21.033041961354
+                ]
+            },
+            "properties": {
+                "id": "157243621885305",
+                "name": "AHA Cafe",
+                "Address": "51 Nguy\u1ec5n H\u1eefu Hu\u00e2n, H\u00e0ng B\u1ea1c, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85112985863,
+                    21.031830254524
+                ]
+            },
+            "properties": {
+                "id": "453766851722525",
+                "name": "Cafe Ph\u1ed1 C\u1ed5",
+                "Address": "11  Ph\u1ed1 H\u00e0ng Gai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8521729,
+                    21.0318794
+                ]
+            },
+            "properties": {
+                "id": "1162925777067900",
+                "name": "\u0110inh caf\u00e9",
+                "Address": "13 Ph\u1ed1 \u0110inh Ti\u00ean Ho\u00e0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85291284128,
+                    21.025761696831
+                ]
+            },
+            "properties": {
+                "id": "394030744028750",
+                "name": "L'etage Cafe",
+                "Address": "9A, H\u00e0ng Khay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84991173097,
+                    21.029035645461
+                ]
+            },
+            "properties": {
+                "id": "644385569005174",
+                "name": "Runam Cafe",
+                "Address": "13 Nh\u00e0 Th\u1edd",
+                "website": "http://caferunam.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85618,
+                    21.02467
+                ]
+            },
+            "properties": {
+                "id": "240339859853210",
+                "name": "C\u1ed9ng Cafe",
+                "Address": "16  Ph\u1ed1 Tr\u00e0ng Ti\u1ec1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85207634632,
+                    21.031976701812
+                ]
+            },
+            "properties": {
+                "id": "415071441925007",
+                "name": "Avalon Cafe Lounge",
+                "Address": "Cau Go",
+                "website": "http://www.avaloncafelounge.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84985,
+                    21.02902
+                ]
+            },
+            "properties": {
+                "id": "754413581357034",
+                "name": "Take Eat Easy Ice-cream & Cafe",
+                "Address": "18B Nh\u00e0 Th\u1edd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85202600474,
+                    21.034233758713
+                ]
+            },
+            "properties": {
+                "id": "208866949204117",
+                "name": "Cafe T\u1ea1 Hi\u1ec7n",
+                "Address": "39 T\u1ea1 Hi\u1ec7n",
+                "website": "http://www.36phophuong.vn/36pho-com_c2_603__10287.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8545229333,
+                    21.033510827069
+                ]
+            },
+            "properties": {
+                "id": "194028461105520",
+                "name": "Gi\u1ea3ng Cafe - Cafe Tr\u1ee9ng S\u1eefa",
+                "Address": "39 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "website": "http://www.giangcafehanoi.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85084944963,
+                    21.023250439098
+                ]
+            },
+            "properties": {
+                "id": "2125373204382873",
+                "name": "AHA Cafe",
+                "Address": "42 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Tr\u00e0ng Ti\u1ec1n, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85563182831,
+                    21.03195543705
+                ]
+            },
+            "properties": {
+                "id": "470456273478145",
+                "name": "Cafe Gare Dalat - H\u00e0 N\u1ed9i",
+                "Address": "18 H\u00e0ng Tre, Ho\u00e0n Ki\u1ebfm",
+                "website": "http://www.cafegaredalat.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84889948368,
+                    21.022722164305
+                ]
+            },
+            "properties": {
+                "id": "1971947669532588",
+                "name": "AHA Cafe",
+                "Address": "16 Quang Trung, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84901294708,
+                    21.029825103206
+                ]
+            },
+            "properties": {
+                "id": "1440962679497915",
+                "name": "lAcA Cafe",
+                "Address": "24-26 Ly\u0301 Qu\u00f4\u0301c S\u01b0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8501726343,
+                    21.031043649436
+                ]
+            },
+            "properties": {
+                "id": "221037787925903",
+                "name": "Cafe Nh\u00e2n - H\u00e0ng H\u00e0nh",
+                "Address": "39D ng\u00f5 H\u00e0ng H\u00e0nh - Ho\u00e0n Ki\u1ebfm - H\u00e0 N\u1ed9i",
+                "website": "http://cafenhan.com.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84653377533,
+                    21.029451894671
+                ]
+            },
+            "properties": {
+                "id": "425257991305541",
+                "name": "Cafe Ph\u1ed1 - 12 Qu\u00e1n S\u1ee9 HN",
+                "Address": "12 Qu\u00e1n S\u1ee9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85791802741,
+                    21.025516103718
+                ]
+            },
+            "properties": {
+                "id": "209743606287935",
+                "name": "Aha Cafe 23A T\u00f4ng \u0110\u1ea3n",
+                "Address": "23A T\u00f4ng \u0110\u1ea3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85436,
+                    21.0252
+                ]
+            },
+            "properties": {
+                "id": "296120974066908",
+                "name": "Cong Caphe",
+                "Address": "46 Tr\u00e0ng Ti\u1ec1n, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84956,
+                    21.02888
+                ]
+            },
+            "properties": {
+                "id": "1762599714010487",
+                "name": "Cong Caphe",
+                "Address": "27 Nh\u00e0 Th\u1edd, Ho\u00e0n Ki\u1ebfm , H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85443,
+                    21.03389
+                ]
+            },
+            "properties": {
+                "id": "355513301545016",
+                "name": "Cong Caphe",
+                "Address": "35A Nguy\u1ec5n H\u1eefu Hu\u00e2n, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.853816,
+                    21.031263
+                ]
+            },
+            "properties": {
+                "id": "314741648942212",
+                "name": "Caphe T\u01b0\u1ee3ng \u0110\u00e0i C\u1ea3m T\u1eed",
+                "Address": "H\u00e0ng D\u1ea7u",
+                "website": "http://cam-tu-quan.placestars.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85159,
+                    21.03231
+                ]
+            },
+            "properties": {
+                "id": "1049808458464193",
+                "name": "Cong Caphe",
+                "Address": "116 C\u1ea7u G\u1ed7, H\u00e0ng B\u1ea1c, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8533999,
+                    21.0351399
+                ]
+            },
+            "properties": {
+                "id": "972368876205007",
+                "name": "Cong Caphe",
+                "Address": "54 M\u00e3 M\u00e2y, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85713,
+                    21.02144
+                ]
+            },
+            "properties": {
+                "id": "953637214775320",
+                "name": "Cong Caphe",
+                "Address": "S\u1ed1 4, L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84687,
+                    21.0327
+                ]
+            },
+            "properties": {
+                "id": "1234081893405000",
+                "name": "Cong Caphe",
+                "Address": "54 H\u00e0ng \u0110i\u1ebfu, Ho\u00e0n Ki\u1ebfm , H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85862,
+                    21.02645
+                ]
+            },
+            "properties": {
+                "id": "429138884190783",
+                "name": "B52 Caphe",
+                "Address": "2 L\u00ea Ph\u1ee5ng Hi\u1ec3u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85395812988,
+                    21.028670780841
+                ]
+            },
+            "properties": {
+                "id": "180020446075873",
+                "name": "C\u00e0ph\u00ea LINH kt 23 \u0110inh Ti\u00ean Ho\u00e0ng",
+                "Address": "23 \u0110inh Ti\u00ean Ho\u00e0ng",
+                "website": "http://Linhktcaphe.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84514057378,
+                    21.025065990259
+                ]
+            },
+            "properties": {
+                "id": "682334221851281",
+                "name": "C\u1ed9ng 68 Qu\u00e1n S\u1ee9 - C\u1ed9ng, C\u1ed9ng n\u1eefa, C\u1ed9ng M\u00e3i",
+                "Address": "66B  Ph\u1ed1 Qu\u00e1n S\u1ee9",
+                "website": "http://congcaphe.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85844,
+                    21.02639
+                ]
+            },
+            "properties": {
+                "id": "1804576869753769",
+                "name": "Cong Caphe",
+                "Address": "S\u1ed1 2 L\u1ec7 Ph\u1ee5ng Hi\u1ec3u",
+                "website": "www.congcaphe.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85444210775,
+                    21.034156780998
+                ]
+            },
+            "properties": {
+                "id": "1385040008228774",
+                "name": "Caphe L\u00e2m-29 Nguy\u1ec5n h\u1eefu hu\u00e2n",
+                "Address": "29 Nguy\u1ec5n H\u1eefu Hu\u00e2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85110334378,
+                    21.032054120344
+                ]
+            },
+            "properties": {
+                "id": "316792918401188",
+                "name": "Radio Coffee 11 H\u00e0ng Gai",
+                "Address": "11 h\u00e0ng gai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8521729,
+                    21.0318794
+                ]
+            },
+            "properties": {
+                "id": "1162925777067900",
+                "name": "\u0110inh caf\u00e9",
+                "Address": "13 Ph\u1ed1 \u0110inh Ti\u00ean Ho\u00e0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85458144236,
+                    21.031722009288
+                ]
+            },
+            "properties": {
+                "id": "972599406112108",
+                "name": "L\u00e2m cafe",
+                "Address": "91 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+                "website": "http://www.cafelam.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85483,
+                    21.03091
+                ]
+            },
+            "properties": {
+                "id": "2096230190630301",
+                "name": "G\u00e0 r\u00e1n Ng\u01b0u Ma V\u01b0\u01a1ng s\u1ed1 9 L\u00fd Th\u00e1i T\u1ed5",
+                "Address": "S\u00d4 9 L\u00dd TH\u00c1I T\u1ed4, HO\u00c0N KI\u1ebeM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85386,
+                    21.02999
+                ]
+            },
+            "properties": {
+                "id": "485481178324828",
+                "name": "Cafe 61 \u0110inh Ti\u00ean Hoa\u0300ng",
+                "Address": "61 \u0110inh Ti\u00ean Hoa\u0300ng ( B\u01a1\u0300 H\u00f4\u0300 ) Ho\u00e0n Ki\u1ebfm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84975,
+                    21.02898
+                ]
+            },
+            "properties": {
+                "id": "124179157640313",
+                "name": "Cafe Moca",
+                "Address": "14 - 16 Nh\u00e0 Th\u1edd, Ho\u00e0n Ki\u1ebfm",
+                "website": "https://eropi.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85547,
+                    21.03262
+                ]
+            },
+            "properties": {
+                "id": "1080535052000926",
+                "name": "C\u00e0ph\u00eaRazzi",
+                "Address": "hang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85153174891,
+                    21.03218605041
+                ]
+            },
+            "properties": {
+                "id": "1926282080738905",
+                "name": "Tocotoco 114 C\u1ea7u G\u1ed7 - Ho\u00e0n Ki\u1ebfm - H\u00e0 N\u1ed9i",
+                "Address": "114 C\u1ea7u G\u1ed7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85468842294,
+                    21.033536099025
+                ]
+            },
+            "properties": {
+                "id": "204277016269382",
+                "name": "Cafe Gi\u1ea3ng",
+                "Address": "39 Nguyen Huu Huan",
+                "website": "www.cafegiang.vn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84899,
+                    21.0219999
+                ]
+            },
+            "properties": {
+                "id": "468796026950911",
+                "name": "Tr\u00e0 \u0110\u00e1 V\u1ec9a H\u00e8",
+                "Address": "11 H\u00e0ng Th\u00f9ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84765,
+                    21.02581
+                ]
+            },
+            "properties": {
+                "id": "308334066374098",
+                "name": "Tr\u00e0 \u0110\u00e1 Nh\u00e0 Th\u1edd",
+                "Address": "Ph\u1ed1 Hai B\u00e0 Tr\u01b0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85290893866,
+                    21.035681937335
+                ]
+            },
+            "properties": {
+                "id": "1906961332955667",
+                "name": "Tr\u00e0 Chanh- Cafe 31 \u0110\u00e0o Duy T\u1eeb",
+                "Address": "31  Ph\u1ed1 \u0110\u00e0o Duy T\u1eeb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85281,
+                    21.031593
+                ]
+            },
+            "properties": {
+                "id": "493160894511613",
+                "name": "Tr\u00e0 \u0110\u00e1 B\u1edd H\u1ed3 V\u1ec9a C\u1ee9u Th\u1ebf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84999,
+                    21.02355
+                ]
+            },
+            "properties": {
+                "id": "265393187634912",
+                "name": "Tr\u00e0 \u0111\u00e0o 42k L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+                "Address": "42k L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "203089287107860",
+                "name": "Tr\u00e0 \u0110\u00e1 Wifi Thpt -h\u1ed3ng Th\u00e1i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8487814111,
+                    21.030603811358
+                ]
+            },
+            "properties": {
+                "id": "805843216177872",
+                "name": "Tr\u00e0 \u0110\u00e0o 11 l\u00fd qu\u1ed1c s\u01b0",
+                "Address": "11A l\u00fd Qu\u1ed1c S\u01b0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.856572758,
+                    21.029987937
+                ]
+            },
+            "properties": {
+                "id": "170759636877433",
+                "name": "Qu\u00e1n Tr\u00e0 \u0110\u00e1",
+                "Address": "21  Ph\u1ed1 H\u00e0ng V\u00f4i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84960702675,
+                    21.023621685238
+                ]
+            },
+            "properties": {
+                "id": "244870765579749",
+                "name": "42S Vi\u1ec7t \u0110\u1ee9c",
+                "Address": "Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "129115274457321",
+                "name": "Tr\u00e0 \u0111\u00e1 51 \u0110\u1ea1i C\u1ed5 Vi\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85735221937,
+                    21.025312440884
+                ]
+            },
+            "properties": {
+                "id": "1807028369524155",
+                "name": "C\u00e0 Ph\u00ea T\u00f9ng s\u1ed1 3 L\u00fd \u0110\u1ea1o Th\u00e0nh H\u00e0 N\u1ed9i",
+                "Address": "4 L\u00fd \u0110\u1ea1o Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85753,
+                    21.025246
+                ]
+            },
+            "properties": {
+                "id": "741148872889146",
+                "name": "Tra Da L\u00fd \u0110\u1ea1o Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85183,
+                    21.01941
+                ]
+            },
+            "properties": {
+                "id": "514797295584150",
+                "name": "Tr\u00e0 Chanh \u0110\u00e1 Me 17 Ph\u1ed1 Hu\u1ebf",
+                "Address": "Ph\u1ed1 Hu\u1ebf",
+                "website": "http://diachiso.vn/ha-noi/hoan-kiem/pho-hue/17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85517,
+                    21.03382
+                ]
+            },
+            "properties": {
+                "id": "612789995786445",
+                "name": "Duc Phuong Hue Royal Tea",
+                "Address": "3 hang mam str, hoan kiem distr, hanoi city, Vietnam",
+                "website": "http://anhbantra.vn/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8452,
+                    21.028656
+                ]
+            },
+            "properties": {
+                "id": "349285442505800",
+                "name": "Tr\u00e0 \u0110\u00e1 Ng\u00f5 H\u1ed9i V\u0169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85061073303,
+                    21.022922458286
+                ]
+            },
+            "properties": {
+                "id": "840311646167787",
+                "name": "B\u00e1nh M\u1ee9t K\u1eb9o H\u00e0 N\u1ed9i",
+                "Address": "54A ph\u1ed1 B\u00e0 Tri\u1ec7u",
+                "website": "http://banhmutkeohanoi.com.vn/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85078,
+                    21.0215
+                ]
+            },
+            "properties": {
+                "id": "659139637756792",
+                "name": "Tr\u00e0 Vita - H\u1ea5p Th\u1ee5 T\u1ed1i \u0110a Dinh D\u01b0\u1ee1ng",
+                "website": "http://vitamintangcan.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "207115236888257",
+                "name": "\u0110\u1eb7ng Thu Tr\u00e0",
+                "Address": "H\u00e0 N\u1ed9i"
+            }
+        }
+    ]
+}
